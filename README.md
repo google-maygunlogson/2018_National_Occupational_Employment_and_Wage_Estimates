@@ -1,0 +1,2 @@
+# 2018_National_Occupational_Employment_and_Wage_Estimates
+2018_National_Occupational_Employment_and_Wage_Estimates from https://www.bls.gov/oes/current/oes_nat.htm#00-0000
